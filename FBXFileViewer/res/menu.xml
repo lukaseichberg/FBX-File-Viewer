@@ -1,0 +1,9 @@
+<menubar>
+	<menu name="File">
+		<item name="Open" action="FILE_OPEN" />
+		<item name="Exit" action="EXIT" />
+	</menu>
+	<menu name="Help">
+		<item name="About" action="INFO" />
+	</menu>
+</menubar>
